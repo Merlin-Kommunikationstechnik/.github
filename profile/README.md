@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="assets/logo.png" />
+  <img height="250" src="../assets/logo.png" />
 </div>
 
 <h1 align="center">✦ MERLIN ✦</h1>
